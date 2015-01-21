@@ -1,7 +1,7 @@
 package microsoft
 
 import (
-	"github.com/st3v/translator"
+	"github.com/cention-nazri/translator"
 	msauth "github.com/st3v/translator/microsoft/auth"
 )
 

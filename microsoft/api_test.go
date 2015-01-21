@@ -3,7 +3,7 @@ package microsoft
 import (
 	"testing"
 
-	"github.com/st3v/translator"
+	"github.com/cention-nazri/translator"
 )
 
 func TestTranslate(t *testing.T) {

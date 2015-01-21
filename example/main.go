@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/st3v/translator"
+	"github.com/cention-nazri/translator"
 	"github.com/st3v/translator/microsoft"
 )
 

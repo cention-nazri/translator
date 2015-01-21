@@ -1,8 +1,8 @@
 package microsoft
 
 import (
+	"github.com/cention-nazri/translator"
 	"github.com/st3v/tracerr"
-	"github.com/st3v/translator"
 )
 
 // The LanguageCatalog provides a slice of languages representing all
